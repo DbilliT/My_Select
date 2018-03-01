@@ -1,0 +1,40 @@
+Repo: ramassage-tek@git.epitech.eu:/lecler_2/PSU_2015_my_select
+City: MPL
+Status: Success
+Logs: [0/3] OK. 
+Date: Sun, 13 Dec 2015 23:47:18
+Remote Branches:
+  origin/HEAD -> origin/master
+  origin/master
+Local Branches:
+* master
+Git graph && Last commit:
+* commit e58ae69c01802bd62e48d458d95f609a5b743bdd
+| Author: Mickaël Leclerc <mickael.leclerc@epitech.eu>
+| Date:   Sun Dec 13 14:36:00 2015 +0100
+| 
+|     Verification write
+|  
+* commit 37b6706df938d8cef645bca09ed0f7f500478e96
+| Author: Mickaël Leclerc <mickael.leclerc@epitech.eu>
+| Date:   Sun Dec 13 14:28:29 2015 +0100
+| 
+|     final
+|  
+* commit 8768eeb3c4ae826cc09fd12cf92c48d031dfe901
+| Author: Mickaël Leclerc <mickael.leclerc@epitech.eu>
+| Date:   Sun Dec 13 14:12:18 2015 +0100
+| 
+|     Gestion touch de gauche liste circulaire
+|  
+* commit 5de1dd3814b6a19183decc2634d178396807141b
+| Author: Mickaël Leclerc <mickael.leclerc@epitech.eu>
+| Date:   Sun Dec 13 00:11:33 2015 +0100
+| 
+|     Affichage ou non si recherche ou selection
+|  
+* commit e171cef55e7303c111fd7f9834863a2d5998ca77
+  Author: Mickaël Leclerc <mickael.leclerc@epitech.eu>
+  Date:   Sun Dec 13 00:04:51 2015 +0100
+  
+      Meilleur gestion du resize + final
